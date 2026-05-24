@@ -1,4 +1,5 @@
 import socket
+import json
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
@@ -13,6 +14,8 @@ conn, addr = server.accept()
 print(f"Connected by {addr}")
 
 message = conn.recv(1024).decode()
+
+message = json.loads(data)
 
 print("Client says:, message")
 
