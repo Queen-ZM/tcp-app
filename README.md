@@ -3,7 +3,7 @@ Name: Noluthando Zilimbola-Mothata
 Module Number: 1
 Date: May 24, 2026
 GitHub Repo: https://github.com/Queen-ZM/tcp-app
-Video Link: 
+Video Link:  https://zoom.us/rec/play/RYd0fP5KAJ75GRbwaiJ-SiV5-Rs6Tc9hEW20xofS_AIPsDPADVSjnEGOdnNOQ_kq8s2HsJFEtoKxBww5.auw9N-SppSVc-OqR?autoplay=true&startTime=1779577302000
 Selected Module: Networking
 Module-Specific Requirements
 All of these are required	Completed?
